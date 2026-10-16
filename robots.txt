@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/relaxnecker-neck-massager/sitemap.xml
+Sitemap: https://relaxnecker-neck-massager.vercel.app/sitemap-vercel.xml
+Sitemap: https://relaxnecker-neck-massager.pages.dev/sitemap-cloudflare.xml
